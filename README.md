@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prtksrvtv
-- 👀 I’m interested in Python, SQL, R , ML, AI
+- 👀 I’m interested in Python, SQL, ML, AI
 - 🌱 I’m currently learning Data Science, Application Development
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me drop a mail on prateeksrivastava9@gmail.com
